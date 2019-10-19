@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyArrayUtils.iml" filepath="$PROJECT_DIR$/.idea/MyArrayUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../lab 9 solution/ArrayFlattener/arrayflattener.iml" filepath="$PROJECT_DIR$/../../../lab 9 solution/ArrayFlattener/arrayflattener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../lab 9 solution/ArrayReversor/arrayreversor.iml" filepath="$PROJECT_DIR$/../../../lab 9 solution/ArrayReversor/arrayreversor.iml" />
+    </modules>
+  </component>
+</project>
